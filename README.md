@@ -1,5 +1,5 @@
 # CSpuare_FaceRecognition
-Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, meant to be used for automated attendence system in IIT hostels, built under CSquare program. This project is built using **Python** programming language and its tools,environments.
+Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, meant to be used for automated attendance system in IIT hostels, built under CSquare program. This project is built using **Python** programming language and its tools,environments.
 
 ## This project involves use of following major Algorithms/techniques:</br>
 > Convolutional Neural Network</br>
