@@ -19,4 +19,4 @@ Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, mean
 > Ahmed Zaheer Dadarkar [CSE(B.Tech) - IIT Palakkad]</br>
 > Devansh Singh Rathore [CSE(B.Tech) - IIT Palakkad]</br>
 
-[![](https://drive.google.com/open?id=1z0qv1Vu7Pv-E93XgLtstIbHOazcdJDKm)]
+[![Video](https://drive.google.com/open?id=1z0qv1Vu7Pv-E93XgLtstIbHOazcdJDKm)]
