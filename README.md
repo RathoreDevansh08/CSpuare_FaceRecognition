@@ -16,8 +16,8 @@ Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, mean
 > Matplotlib</br>
 
 ## Important Links:</br>
-> [Facenet_Research_paper](https://arxiv.org/abs/1503.03832)
-> [Triplet_Loss](https://www.coursera.org/learn/convolutional-neural-networks/lecture/HuUtN/triplet-loss)
+> [Facenet_Research_paper](https://arxiv.org/abs/1503.03832)</br>
+> [Triplet_Loss](https://www.coursera.org/learn/convolutional-neural-networks/lecture/HuUtN/triplet-loss)</br>
 
 ## Credits:</br>
 > Ahmed Zaheer Dadarkar [CSE(B.Tech) - IIT Palakkad]</br>
