@@ -15,6 +15,9 @@ Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, mean
 > Numpy</br>
 > Matplotlib</br>
 
+## Important Links:</br>
+> [Facenet_Research_paper](https://arxiv.org/abs/1503.03832)
+
 ## Credits:</br>
 > Ahmed Zaheer Dadarkar [CSE(B.Tech) - IIT Palakkad]</br>
 > Devansh Singh Rathore [CSE(B.Tech) - IIT Palakkad]</br>
