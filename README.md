@@ -17,6 +17,7 @@ Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, mean
 
 ## Important Links:</br>
 > [Facenet_Research_paper](https://arxiv.org/abs/1503.03832)
+> [Triplet_Loss](https://www.coursera.org/learn/convolutional-neural-networks/lecture/HuUtN/triplet-loss)
 
 ## Credits:</br>
 > Ahmed Zaheer Dadarkar [CSE(B.Tech) - IIT Palakkad]</br>
