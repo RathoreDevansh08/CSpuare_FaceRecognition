@@ -8,7 +8,7 @@ Face_Recogntion project, using **Deep Learning/Machine Learning** concepts, mean
 > Xavier Initializer</br>
 > Batch Normalization</br>
 
-## Major Python Libraries used:</br>
+## Major Python Libraries & Packages used:</br>
 > Tensorflow</br>
 > Keras</br>
 > cv2</br>
